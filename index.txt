@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ДЗ</title>
+</head>
+<body>
+    <img src="realestate4.jpg" alt="здесь моя дз в формате JPG">
+</body>
+</html>
